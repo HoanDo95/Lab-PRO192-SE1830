@@ -28,7 +28,7 @@ public class FPTUniversity extends University implements Role {
 
     @Override
     public void createWorker() {
-        System.out.println("providing human resources");
+        System.out.println("providing human resources ");
     }
 
 }

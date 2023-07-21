@@ -15,15 +15,15 @@ public class University extends Organization {
 
     @Override
     public void communicateByTool() {
-        System.out.println("in the university, people communicate by voice");
+        System.out.println("in the university, people communicate by voice ");
     }
 
     public void enroll() {
-        System.out.println("THe registration for enrollment is only valid when the University has received all enrollment documents and enrollment fees");
+        System.out.println("THe registration for enrollment is only valid when the University has received all enrollment documents and enrollment fees ");
     }
 
     public void educate() {
-        System.out.println("provide education at university standard");
+        System.out.println("provide education at university standard ");
     }
 
     @Override

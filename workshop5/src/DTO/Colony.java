@@ -15,7 +15,7 @@ public class Colony extends Organization {
 
     @Override
     public void communicateByTool() {
-        System.out.println("The colony communicate by sound");
+        System.out.println("The colony communicate by sound ");
     }
 
     public void grow() {
